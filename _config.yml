@@ -1,0 +1,28 @@
+name: nada
+favicon: null
+layout_spectrum: 0.5161193152889609
+typography_spectrum: 0.04228788870386779
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7648042808286846
+  lightness: 0.22092423122376204
+  saturation: 0.024984194664284587
+  rhythmicContrast: 0.4962570678908378
+purpose: []
