@@ -4,7 +4,7 @@
         <description><![CDATA[Portfolio Urs Breton]]></description>
         <link>http://ursbreton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 21:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 22:11:39 GMT</lastBuildDate>
         <atom:link href="http://ursbreton.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -43,10 +43,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/caceafdb-8473-4ed6-9f76-dd81ad21b6c6.jpg">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67dfc3bdb86aeb2e7b8c8e0adaf033c6f0045c7a.jpg" alt="" title="">]]></description>
             <link>http://ursbreton.com/75123428-2945-4e0b-8015-1dbfa6e12281/index.html</link>
             <guid isPermaLink="false">75123428-2945-4e0b-8015-1dbfa6e12281</guid>
-            <pubDate>Tue, 01 Mar 2016 21:46:13 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 22:11:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
