@@ -4,7 +4,7 @@
         <description><![CDATA[Portfolio Urs Breton]]></description>
         <link>http://ursbreton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 22:34:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 22:35:04 GMT</lastBuildDate>
         <atom:link href="http://ursbreton.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,9 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is an experiment to let The Grid's [Beta!]-AI design my portfolio.Well, I'm not really convinced this AI will take my job in the next few weeks. But as data grows, it will probably. </p>]]></description>
             <link>http://ursbreton.com/2c3a4711-c6a6-4cf7-a316-f824f0872b35/index.html</link>
             <guid isPermaLink="false">2c3a4711-c6a6-4cf7-a316-f824f0872b35</guid>
-            <pubDate>Tue, 01 Mar 2016 22:33:44 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 22:34:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Born To Run]]></title>
