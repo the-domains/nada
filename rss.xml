@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portfolio Urs Breton]]></title>
         <description><![CDATA[Portfolio Urs Breton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ursbreton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 22:45:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 22:46:01 GMT</lastBuildDate>
+        <atom:link href="http://ursbreton.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet The Streets]]></title>
+            <description><![CDATA[<article><h1>Meet The Streets</h1><p>Game / Client: x</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6ce2134cec6975c48aba335c053f660d6fa61e2.jpg"></article>]]></description>
+            <link>http://ursbreton.com/meet-the-streets/index.html</link>
+            <guid isPermaLink="false">0dd77cd8-73e5-41a1-ae91-622e59e0c664</guid>
+            <pubDate>Tue, 01 Mar 2016 22:45:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Born To Run]]></title>
             <description><![CDATA[<article><h1>Born To Run</h1><p>Game / Desc</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5d3a14575f2f25553fed32a5dda9e98b059e575.jpg"></article>]]></description>
-            <link>undefinedborn-to-run/index.html</link>
+            <link>http://ursbreton.com/born-to-run/index.html</link>
             <guid isPermaLink="false">6029fb34-156c-46fd-aef8-5d680f72e7f9</guid>
             <pubDate>Tue, 01 Mar 2016 22:45:19 GMT</pubDate>
         </item>
