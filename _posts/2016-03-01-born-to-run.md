@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Game / Desc
-datePublished: '2016-03-01T21:51:20.347Z'
-dateModified: '2016-03-01T21:50:29.868Z'
+datePublished: '2016-03-01T22:39:43.278Z'
+dateModified: '2016-03-01T22:39:41.319Z'
 title: Born To Run
 author: []
 sourcePath: _posts/2016-03-01-born-to-run.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: born-to-run/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5d3a14575f2f25553fed32a5dda9e98b059e575.jpg)
