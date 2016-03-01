@@ -4,8 +4,15 @@
         <description><![CDATA[Portfolio Urs Breton]]></description>
         <link>http://ursbreton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 21:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 21:51:48 GMT</lastBuildDate>
         <atom:link href="http://ursbreton.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/368989b7f447b400e97345ef2adfb5bf74895b2f.jpg" alt="" title="">]]></description>
+            <link>http://ursbreton.com/654600f7-d626-4d95-afe3-6822dd9b6af4/index.html</link>
+            <guid isPermaLink="false">654600f7-d626-4d95-afe3-6822dd9b6af4</guid>
+            <pubDate>Tue, 01 Mar 2016 21:51:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portfolio Urs Breton]]></title>
             <description><![CDATA[<article><h1>Portfolio Urs Breton</h1><p>This is an experiment to let The Grid's [Beta!]-AI design my portfolio.</p></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://ursbreton.com/75123428-2945-4e0b-8015-1dbfa6e12281/index.html</link>
             <guid isPermaLink="false">75123428-2945-4e0b-8015-1dbfa6e12281</guid>
             <pubDate>Tue, 01 Mar 2016 21:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94699375-7842-44db-9b17-6ad7978e9219.jpg">]]></description>
-            <link>http://ursbreton.com/654600f7-d626-4d95-afe3-6822dd9b6af4/index.html</link>
-            <guid isPermaLink="false">654600f7-d626-4d95-afe3-6822dd9b6af4</guid>
-            <pubDate>Sat, 27 Feb 2016 21:05:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
