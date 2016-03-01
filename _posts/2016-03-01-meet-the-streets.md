@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Game / Client: x'
-datePublished: '2016-03-01T22:39:59.233Z'
-dateModified: '2016-03-01T22:39:57.229Z'
+datePublished: '2016-03-01T22:45:32.824Z'
+dateModified: '2016-03-01T22:45:30.938Z'
 title: Meet The Streets
 author: []
 sourcePath: _posts/2016-03-01-meet-the-streets.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: meet-the-streets/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6ce2134cec6975c48aba335c053f660d6fa61e2.jpg)
