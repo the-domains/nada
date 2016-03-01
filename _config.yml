@@ -1,6 +1,6 @@
 name: Portfolio
 favicon: null
-layout_spectrum: 0.24902
+layout_spectrum: 1
 typography_spectrum: 0.83166
 title: Portfolio Urs Breton
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1875
-  lightness: 0
-  saturation: 0.625
-  rhythmicContrast: 0
+    - '#fffde5'
+    - '#0b1618'
+    - '#dcc7b1'
+    - '#832d31'
+    - '#ae754d'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
