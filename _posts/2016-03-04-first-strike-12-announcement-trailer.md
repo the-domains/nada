@@ -1,14 +1,9 @@
 ---
-author:
-  - name: First Strike
-    url: 'https://www.youtube.com/user/firststrikegame'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - duration
   - strike
@@ -21,7 +16,13 @@ keywords:
   - firststrikegame
   - '2142'
 description: 'First Strike is going one step further! Welcome to the next major update: Download it here: iOS: http://bit.ly/fsiosgame Play: http://bit.ly/fsandroidgame Amazon: http://bit.ly/fsamazonapp Nuclear War, but fun. First Strike updates to 1.2. Two brand new superweapons are awaiting your selection: the salted cobalt bomb and the almost inpenetrable iron dome defense system.'
-inLanguage: en
+datePublished: '2016-03-04T13:41:18.635Z'
+dateModified: '2016-03-04T13:40:51.063Z'
+author:
+  - name: First Strike
+    url: 'https://www.youtube.com/user/firststrikegame'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=u7Bzk4qzKCE&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=u7Bzk4qzKCE'
 title: First Strike 1.2 Announcement Trailer
-datePublished: '2016-03-04T13:40:46.050Z'
-dateModified: '2016-03-04T13:38:45.068Z'
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 sourcePath: _posts/2016-03-04-first-strike-12-announcement-trailer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+url: first-strike-12-announcement-trailer/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
