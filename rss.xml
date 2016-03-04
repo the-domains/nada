@@ -4,8 +4,15 @@
         <description><![CDATA[Portfolio Urs Breton]]></description>
         <link>http://ursbreton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 13:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 13:42:14 GMT</lastBuildDate>
         <atom:link href="http://ursbreton.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Working @Feinheit as a Game Programmer, Frontend Developer and Technical Conceptionist. Loving Lo-Fi Tech. Professional Information here. Random thoughts here.</p></article>]]></description>
+            <link>http://ursbreton.com/about/index.html</link>
+            <guid isPermaLink="false">9f61fa7b-5485-4fba-b55d-1e7dea481bdb</guid>
+            <pubDate>Fri, 04 Mar 2016 13:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Strike 1.2 Announcement Trailer]]></title>
             <description><![CDATA[<article><h1>First Strike 1.2 Announcement Trailer</h1><p>First Strike is going one step further! Welcome to the next major update: Download it here: iOS: http://bit.ly/fsiosgame Play: http://bit.ly/fsandroidgame Amazon: http://bit.ly/fsamazonapp Nuclear War, but fun. First Strike updates to 1.2. Two brand new superweapons are awaiting your selection: the salted cobalt bomb and the almost inpenetrable iron dome defense system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb01d5b8465fb88efe134dd1d083f1013c3b319.jpg"></article>]]></description>
