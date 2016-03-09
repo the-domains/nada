@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Portfolio Urs Breton]]></title>
+        <description><![CDATA[Portfolio Urs Breton]]></description>
+        <link>http://ursbreton.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 13:43:52 GMT</lastBuildDate>
+        <atom:link href="http://ursbreton.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid messed up my Portfolio. Let's see, what I can do about.]]></title>
+            <description><![CDATA[<h1>The Grid messed up my Portfolio. Let's see, what I can do about.</h1>]]></description>
+            <link>http://ursbreton.com/37fad5f9-696c-4bbc-9eab-3e81d61bddd2/index.html</link>
+            <guid isPermaLink="false">37fad5f9-696c-4bbc-9eab-3e81d61bddd2</guid>
+            <pubDate>Wed, 09 Mar 2016 13:43:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
