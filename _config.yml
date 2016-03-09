@@ -1,7 +1,7 @@
-name: Portfolio
+name: Site
 favicon: null
-layout_spectrum: 0.75602
-typography_spectrum: 0.25602
+layout_spectrum: 0.99122
+typography_spectrum: 0.50098
 title: The Grid messes up my portfolio
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#151716'
     - '#2f9971'
     - '#ec6e58'
-  brandStrength: 0
-  lightness: 0.1875
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
 purpose: []
