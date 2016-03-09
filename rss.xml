@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Portfolio Urs Breton]]></title>
-        <description><![CDATA[Portfolio Urs Breton]]></description>
+        <title><![CDATA[The Grid messes up my portfolio]]></title>
+        <description><![CDATA[The Grid messes up my portfolio]]></description>
         <link>http://ursbreton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 13:30:07 GMT</lastBuildDate>
         <atom:link href="http://ursbreton.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Working @Feinheit as a Game Programmer, Frontend Developer and Technical Conceptionist. Loving Lo-Fi Tech. Professional Information here. Random thoughtshere.]]></title>
-            <description><![CDATA[<h1>Working @Feinheit as a Game Programmer, Frontend Developer and Technical Conceptionist. Loving Lo-Fi Tech. Professional Information here. Random thoughtshere.</h1>]]></description>
-            <link>http://ursbreton.com/about/index.html</link>
-            <guid isPermaLink="false">9f61fa7b-5485-4fba-b55d-1e7dea481bdb</guid>
-            <pubDate>Wed, 09 Mar 2016 13:24:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[First Strike 1.2 Announcement Trailer]]></title>
             <description><![CDATA[<article><h1>First Strike 1.2 Announcement Trailer</h1><p>First Strike is going one step further! Welcome to the next major update: Download it here: iOS: http://bit.ly/fsiosgame Play: http://bit.ly/fsandroidgame Amazon: http://bit.ly/fsamazonapp Nuclear War, but fun. First Strike updates to 1.2. Two brand new superweapons are awaiting your selection: the salted cobalt bomb and the almost inpenetrable iron dome defense system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb01d5b8465fb88efe134dd1d083f1013c3b319.jpg"></article>]]></description>
