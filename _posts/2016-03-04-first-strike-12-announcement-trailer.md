@@ -16,8 +16,8 @@ keywords:
   - firststrikegame
   - '2142'
 description: 'First Strike is going one step further! Welcome to the next major update: Download it here: iOS: http://bit.ly/fsiosgame Play: http://bit.ly/fsandroidgame Amazon: http://bit.ly/fsamazonapp Nuclear War, but fun. First Strike updates to 1.2. Two brand new superweapons are awaiting your selection: the salted cobalt bomb and the almost inpenetrable iron dome defense system.'
-datePublished: '2016-03-04T13:41:18.635Z'
-dateModified: '2016-03-04T13:40:51.063Z'
+datePublished: '2016-03-09T13:31:48.624Z'
+dateModified: '2016-03-09T13:31:46.871Z'
 author:
   - name: First Strike
     url: 'https://www.youtube.com/user/firststrikegame'
@@ -61,14 +61,14 @@ app_links:
     namespace: google
     type: ios
 title: First Strike 1.2 Announcement Trailer
+sourcePath: _posts/2016-03-04-first-strike-12-announcement-trailer.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-04-first-strike-12-announcement-trailer.md
-published: true
 url: first-strike-12-announcement-trailer/index.html
 _type: VideoObject
 _context: 'http://schema.org'
